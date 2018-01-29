@@ -1,0 +1,10 @@
+c:\Users\ccuts\Documents\CSharp_Scripts\DEV258x_Microsoft\Courses\obj\Debug\netcoreapp2.0\Courses.csproj.CoreCompileInputs.cache
+c:\Users\ccuts\Documents\CSharp_Scripts\DEV258x_Microsoft\Courses\obj\Debug\netcoreapp2.0\Courses.AssemblyInfoInputs.cache
+c:\Users\ccuts\Documents\CSharp_Scripts\DEV258x_Microsoft\Courses\obj\Debug\netcoreapp2.0\Courses.AssemblyInfo.cs
+c:\Users\ccuts\Documents\CSharp_Scripts\DEV258x_Microsoft\Courses\bin\Debug\netcoreapp2.0\Courses.deps.json
+c:\Users\ccuts\Documents\CSharp_Scripts\DEV258x_Microsoft\Courses\bin\Debug\netcoreapp2.0\Courses.runtimeconfig.json
+c:\Users\ccuts\Documents\CSharp_Scripts\DEV258x_Microsoft\Courses\bin\Debug\netcoreapp2.0\Courses.runtimeconfig.dev.json
+c:\Users\ccuts\Documents\CSharp_Scripts\DEV258x_Microsoft\Courses\bin\Debug\netcoreapp2.0\Courses.dll
+c:\Users\ccuts\Documents\CSharp_Scripts\DEV258x_Microsoft\Courses\bin\Debug\netcoreapp2.0\Courses.pdb
+c:\Users\ccuts\Documents\CSharp_Scripts\DEV258x_Microsoft\Courses\obj\Debug\netcoreapp2.0\Courses.dll
+c:\Users\ccuts\Documents\CSharp_Scripts\DEV258x_Microsoft\Courses\obj\Debug\netcoreapp2.0\Courses.pdb
